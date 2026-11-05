@@ -5,7 +5,7 @@ appointments by voice: it understands requests, checks live availability, calls
 tools, confirms before booking, and refuses what it shouldn't do — with every
 tool call traced on screen.
 
-**Live demo:** https://voicepilot-nine.vercel.app
+**Live demo:** https://voicepilot-ten.vercel.app
 **Stack:** Next.js 16 (App Router) · TypeScript · Tailwind CSS 4 · Web Speech API
 
 > **Demo mode — no API key required.** Speech input uses the browser's built-in
